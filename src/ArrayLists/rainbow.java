@@ -13,6 +13,7 @@ public class rainbow {
 		rainbowColors.add("Blue");
 		rainbowColors.add("Purple");
 		System.out.println(rainbowColors);
+		System.out.println(rainbowColors.get(3));
 
 	}
 
