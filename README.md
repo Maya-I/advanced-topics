@@ -1,1 +1,1 @@
-These are all the exercises I've done with Java's advanced topics.
+These are all the exercises I've solved with Java's advanced topics.
